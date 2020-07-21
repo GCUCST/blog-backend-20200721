@@ -10,5 +10,8 @@ public class AController {
                 .password("****")
                 .build();
         System.out.println(user);
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
